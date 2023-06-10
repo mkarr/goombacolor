@@ -35,7 +35,6 @@ void flush_xgb_sram(void);
 void getsram(void);
 
 u32 checksum_this(void);
-u32 checksum_mem(u8 *p);
 u32 checksum_romnum(int romNumber);
 //u32 checksum(u8 *p);
 
